@@ -1,5 +1,7 @@
 body {
-  margin: 0;
+  
+  padding: 0rem;
+  margin: 0rem;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -10,4 +12,16 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.formulario {
+  padding: 6rem;
+}
+
+.tabla {
+padding: 1rem 6rem;
+}
+
+.destacado {
+  font-weight: 700;
 }
